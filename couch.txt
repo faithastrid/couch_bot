@@ -1,0 +1,36 @@
+materials -----
+need protective case for couch pi 
+https://www.amazon.com/Components-Raspberry-Model-Clear-Case/dp/B07W72KL1W/ref=sr_1_6?crid=1DHIPU040TAZZ&keywords=raspberry+pi+clear+case&qid=1663098077&sprefix=rasberry+pi+clear+case%2Caps%2C95&sr=8-6
+what model pi are we using?
+
+need pool noodles + fabric for bumpers
+new tires?
+
+this week (9/26):
+- familiarize with project
+- research tire options
+- purchase pi case
+
+tasks -----
+python coding workshop
+some kind of mechanical design system
+assign roles/jobs every week?
+build excitement
+
+mechanical priority:
+1. bent caster wheel axle
+2. tires
+3. bumpers
+
+electrical priority:
+1. rasberry pi case
+2.
+
+software priority:
+1. smoother acceleration/decceleration
+2. smoother turning
+3. 
+
+TODO:
+get off ssh
+
